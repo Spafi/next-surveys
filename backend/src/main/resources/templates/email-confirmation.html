@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Email Confirmed</title>
+    <script defer>
+        window.onload = (event) => {
+            setTimeout(()=> {window.location.replace(frontEndLoginPage);}, 3000)
+            let counter = 2;
+            setInterval(() => {
+                document.getElementById('counter').innerText = counter;
+                counter--;
+            }, 1000);
+        };
+    </script>
+</head>
+<body>
+<p>Email Confirmed</p>
+<p>
+    You will be redirected in <span id="counter">3</span> seconds to the login
+    page
+</p>
+</body>
+</html>

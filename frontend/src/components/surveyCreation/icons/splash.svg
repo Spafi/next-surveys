@@ -1,0 +1,30 @@
+<svg id="Layer_1" data-name="Layer 1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 976.23 858.07">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="71.37" y1="531.17" x2="1011.02" y2="531.17"
+      gradientTransform="matrix(-0.96, -0.28, -0.28, 0.96, 1153.56, 166.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.32" stop-color="#ff416c" />
+      <stop offset="0.66" stop-color="#ff464e" />
+      <stop offset="1" stop-color="#ff4b2b" />
+      
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="70.87" y1="531.17" x2="1011.52" y2="531.17"
+      gradientTransform="matrix(-0.96, -0.28, -0.28, 0.96, 1153.56, 166.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f94b81" />
+      <stop offset="0.38" stop-color="#fb4b63" />
+      <stop offset="1" stop-color="#ff4b2b" />
+      
+    </linearGradient>
+  </defs>
+  <title>splash</title>
+  <path class="cls-1"
+    d="M307.11,155.5c44.49-19.85,242.52-108.23,447.7-21.18C807,156.44,910.23,200.25,958.6,309.1c60.46,136.08,8.45,313.75-95.66,381.28-66.78,43.31-98.57,4.71-194.51,45.5-148,62.93-140.88,184-247.23,212.46-122.06,32.7-269-89.9-338.43-197.27-17.34-26.83-107-165.49-60.47-326C69.69,261.46,224.61,192.32,307.11,155.5Z"
+    transform="translate(-8.57 -96.15)" />
+</svg>
