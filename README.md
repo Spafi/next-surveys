@@ -58,8 +58,7 @@ It was a fun journey, and I learned a lot during its development.
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps:
-1. 
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
